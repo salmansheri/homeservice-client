@@ -1,0 +1,33 @@
+.welcomepagebtn {
+    margin: 20px;
+}
+
+.welcomecontainer {
+    display: flex; 
+    
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.welcomeCards {
+    text-align: center;
+    margin: 30px;
+}
+
+.Admincontainer {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    height: 90vh;
+
+}
+
+.admincard {
+    width: 100%;
+}
+
+.userLoginCard {
+    margin-top: 50px;
+}
